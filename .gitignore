@@ -3,6 +3,7 @@
 /x64/
 /Debug/
 /Release/
+/Snake/
 
 # Ignorar arquivos temporários do Visual Studio
 *.obj
