@@ -1,0 +1,40 @@
+# Ignorar os arquivos de build
+/build/
+/x64/
+/Debug/
+/Release/
+
+# Ignorar arquivos temporários do Visual Studio
+*.obj
+*.o
+*.dll
+*.exe
+*.lib
+*.pdb
+*.idb
+*.ipch
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Ignorar pastas de configuração do Visual Studio
+.vs/
+.vscode/
+
+# Ignorar arquivos de dependências do CMake
+CMakeCache.txt
+CMakeFiles/
+CMakeScripts/
+Makefile
+*.cmake
+
+# Ignorar arquivos de log
+*.log
+
+# Ignorar o diretório .idea (caso você esteja usando o IntelliJ ou outro editor JetBrains)
+.idea/
+
+# Ignorar configurações do sistema
+Thumbs.db
+.DS_Store
